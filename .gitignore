@@ -1,0 +1,8 @@
+*.log
+.htaccess
+sitemap.xml
+wp-config.php
+_LABOR/
+_backup/
+wp-content/upgrade/
+
